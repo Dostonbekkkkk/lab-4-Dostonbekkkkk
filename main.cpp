@@ -185,8 +185,6 @@ int main() {
     int futureDay = (a14+b14) % 7;
     cout << "Today is " << daysOfWeek[a14] << " and the future day is " << daysOfWeek[futureDay] << endl << endl;
 
-
-
     cout << "PROBLEM 15\n";
 
     int a15;
@@ -228,8 +226,6 @@ int main() {
             cout << "It is zero" << endl << endl;
             break;
     }
-
-
 
     cout << "PROBLEM 17\n";
 
